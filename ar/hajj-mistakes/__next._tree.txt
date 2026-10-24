@@ -1,6 +1,6 @@
-:HL["/masjid-guide/_next/static/chunks/23z0hgh12xfc5.css","style"]
+:HL["/masjid-guide/_next/static/chunks/3gp94nfr_x00j.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"hajj-mistakes","s":["styleguide"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":[]},"h":196720,"c":"$Q2"}]]
-0:{"b":"0tHvLIVJIRzM-aBIyMV-s","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"dRQWOWz0GzA28tLPl0dwd","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
