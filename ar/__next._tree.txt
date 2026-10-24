@@ -1,0 +1,5 @@
+:HL["/masjid-guide/_next/static/chunks/01bo2wwe4i8gj.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":[]},"h":65648,"c":"$Q2"}]]
+0:{"b":"K1tJsQ1pe1hMtf90Zuqlw","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

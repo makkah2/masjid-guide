@@ -1,0 +1,7 @@
+:HL["/masjid-guide/_next/static/chunks/01bo2wwe4i8gj.css","style"]
+:HC["/",""]
+:HL["/masjid-guide/fonts/nastaliq-urdu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"hajj","s":["styleguide"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ur","s":[]},"h":196720,"c":"$Q2"}]]
+0:{"b":"K1tJsQ1pe1hMtf90Zuqlw","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
